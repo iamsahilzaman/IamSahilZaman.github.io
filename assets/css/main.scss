@@ -1,0 +1,26 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+
+@charset "utf-8";
+
+// ... stuff
+@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'neon' }}"; // skin
+@import "minimal-mistakes";
+
+.page__content {
+    font-size: small;
+}
+
+#main {
+    CONTAIN-INTRINSIC-BLOCK-SIZE: AUTO 100PX; 
+    clear: both; 
+    margin-inline: 0;
+    padding-inline: 0; 
+}
+
+@media (min-width: 80em) {
+    .page {
+        padding-inline-end: 30px;
+    }
+}
