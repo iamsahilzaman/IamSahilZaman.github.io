@@ -59,7 +59,7 @@ My entire history portion is left, and my Indian Geography is left. So, in next 
 * **Effect of policies and politics of developed and developing countries on India’s interests, Indian diaspora. 
 * **Important International institutions, agencies and fora- their structure, mandate**
 
-For, GS2, I'm in dilemma, it seems like I haven't read polity, no matter what, but, I guess, I should prioritise completing syllabus first. **International Relation** it is! But, I will only do, till my coaching does, _yes, I'm enrolled in coaching, that take tests too, but I don't give any._
+For, GS2, I'm in dilemma, it seems like I haven't read polity, no matter what, but, I guess, I should priorities completing syllabus first. **International Relation** it is! But, I will only do, till my coaching does, _yes, I'm enrolled in coaching, that take tests too, but I don't give any._
 
 So,
 
@@ -67,3 +67,16 @@ So,
 |-----|--------|-------|
 |September|GS1|Ancient & Medieval History with Art & Culture|
 |September|GS2|International Relation|
+
+
+<style scoped>
+table {
+  font-size: 15px;
+}
+</style>
+
+|Date|GS-Paper|Subject 1|Subject 2|Sociology|Remark|Source|
+|----|--------|---------|---------|---------|------|------|
+|31-08-2024|1|Ancient History|International Relation|Emile Durkheim|||
+
+Today, I want to complete the backlog of CSAT and done away with it. See you tomorrow.
